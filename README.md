@@ -5,7 +5,7 @@ This project demonstrates API integration, asynchronous JavaScript, and dynamic 
 
 ---
 
-## 🚀 Technologies Used
+## Technologies Used
 
 * **HTML5** – Structuring the application
 * **CSS3** – Styling and responsive layout
@@ -14,7 +14,7 @@ This project demonstrates API integration, asynchronous JavaScript, and dynamic 
 
 ---
 
-## ✨ Features
+## Features
 
 * Search weather by city name
 * Display:
@@ -27,7 +27,7 @@ This project demonstrates API integration, asynchronous JavaScript, and dynamic 
 
 ---
 
-## 🛠️ Development Process
+## Development Process
 
 1. Designed the application layout using HTML
 2. Styled the UI with CSS for clarity and responsiveness
@@ -37,7 +37,7 @@ This project demonstrates API integration, asynchronous JavaScript, and dynamic 
 
 ---
 
-## 📚 What I Learned
+## What I Learned
 
 * Working with third-party APIs
 * Handling asynchronous operations in JavaScript
@@ -47,7 +47,7 @@ This project demonstrates API integration, asynchronous JavaScript, and dynamic 
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 * Add location-based weather using the Geolocation API
 * Show multi-day weather forecasts
@@ -57,11 +57,11 @@ This project demonstrates API integration, asynchronous JavaScript, and dynamic 
 
 ---
 
-## 📌 Purpose of the Project
+## Purpose of the Project
 
 This project was built to improve frontend development skills by integrating APIs, handling asynchronous data, and creating a responsive real-time weather application using core web technologies.
 
 ---
 ## Author
-Greeshma Frontend Developer | CSE (AI & ML) Student GitHub: https://github.com/greeshmagali
+Greeshma web Developer | CSE (AI & ML) Student GitHub: https://github.com/greeshmagali
 
